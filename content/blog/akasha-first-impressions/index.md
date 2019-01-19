@@ -1,6 +1,6 @@
 ---
-title: How I Come Up With Tech Business Ideas
-date: '2017-02-19'
+title: Akasha First Impressions
+date: '2017-03-30'
 ---
 
 I reject the myth of the creative genius - the idea that it takes a special kind of person to generate ideas for businesses, products, and inventions. The ability to come up with ideas is a skill that can be learned and practiced. I came to this realization after spending a good deal of time thinking about what makes a good business idea and testing some of my own. I have read a lot of books on or related to the topic, talked to successful entrepreneurs and asked them how they came up with their ideas and tested out different methods of idea generation. As I am deciding what kind of business to start next, and am faced with the task of coming up with a tech business idea that may consume the next 3-7 years of my life, I really want that idea to be a good one. When generating business ideas, there are some different frameworks that I use to focus my thinking in a way that allows me to generate more ideas. For idea generation, my goal is quantity, because I feel that I am using one part of my brain to generate ideas and another to judge/prune/filter out the bad ideas. At first, I use a few different "frameworks" to generate ideas. Later after some time has passed, I go back and look at my ideas to filter them. But what makes an idea good or bad?
