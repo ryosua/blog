@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "ryan-yosua-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "description": "I write about software engineering, Ethereum and entrepreneurship.",
+  "version": "1.0.0",
+  "author": "Ryan Yosua",
   "dependencies": {
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.22",
