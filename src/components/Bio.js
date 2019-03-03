@@ -28,11 +28,10 @@ function Bio() {
               }}
             />
             <p>
-              I am a software engineer and entrepreneur. I am currently
-              interviewing for full time software engineering positions. In my
-              free time, I am working on{' '}
-              <a href="http://fragmented.world/">Fragmented</a>, a decentralized
-              social network for Ethereum enthusiasts.
+              I am a full-time software engineer and part-time entrepreneur. I
+              am currently working as a contractor at Nutrien. In my free time,
+              I am working on <a href="http://fragmented.world/">Fragmented</a>,
+              a decentralized social network for Ethereum enthusiasts.
             </p>
           </div>
         )
