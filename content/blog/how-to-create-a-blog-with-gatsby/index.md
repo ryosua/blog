@@ -9,6 +9,8 @@ When I first created this blog I used a platform called Ghost and chose to host 
 
 Overall I have been pretty happy with Ghost, but as this blog is more of a hobby and not generating any real income, paying over \$300 dollars a year seemed like too much.
 
+_Edit (3/3/19): I finally got around to cutting over the DNS settings to make the switch, and I realized that Surge Pro is needed for SSL on a custom domain. Since that costs \$30 / month, there ended being no real cost-benefit switching from Ghost to Gatsby. I am still going to switch to Gatsby for the ability to easily customize the site._
+
 Recently I have heard about [GatsbyJS](https://www.gatsbyjs.org/) which is a static CMS that uses JavaScript, React, GraphQL, and Markdown to generate websites and blogs. I wanted to try it out knowing that hosting a static site is super easy and essentially free other than the cost of a domain name.
 
 ## Migrating my Blog
@@ -52,4 +54,4 @@ The final step was switching my custom domain to point to Surge instead of my ow
 
 ## Summary
 
-I was really impressed with Gatsby. It only took me about 2-3 hours to get a decent looking blog up, and when I finally make the switch it will save me a few hundred dollars per year. I feel like I haven't even scratched the surface of Gatsby either. You can totally customize the site using React, and even pull data from other sources and combine it with your static files using GraphQL. Gatsby is a great solution to quickly create a blog or content driven website for virtually free. I was surprised to find that the React docs also use Gatsby. I am looking forward to finishing the migration of my blog and digging deeper by writing some custom components with React.
+I was really impressed with Gatsby. It only took me about 2-3 hours to get a decent looking blog up, ~~and when I finally make the switch it will save me a few hundred dollars per year~~. I feel like I haven't even scratched the surface of Gatsby either. You can totally customize the site using React, and even pull data from other sources and combine it with your static files using GraphQL. Gatsby is a great solution to quickly create a blog or content driven website for virtually free. I was surprised to find that the React docs also use Gatsby. I am looking forward to finishing the migration of my blog and digging deeper by writing some custom components with React.
