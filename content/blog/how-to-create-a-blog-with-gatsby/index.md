@@ -9,8 +9,6 @@ When I first created this blog I used a platform called Ghost and chose to host 
 
 Overall I have been pretty happy with Ghost, but as this blog is more of a hobby and not generating any real income, paying over \$300 dollars a year seemed like too much.
 
-_Edit (3/3/19): I finally got around to cutting over the DNS settings to make the switch, and I realized that Surge Pro is needed for SSL on a custom domain. Since that costs \$30 / month, there ended being no real cost-benefit switching from Ghost to Gatsby. I am still going to switch to Gatsby for the ability to easily customize the site._
-
 Recently I have heard about [GatsbyJS](https://www.gatsbyjs.org/) which is a static CMS that uses JavaScript, React, GraphQL, and Markdown to generate websites and blogs. I wanted to try it out knowing that hosting a static site is super easy and essentially free other than the cost of a domain name.
 
 ## Migrating my Blog
@@ -33,25 +31,8 @@ And that's all it took to get the blog up and running on my computer. I replaced
 
 ## Hosting My Blog
 
-For hosting, I am a huge fan of Surge.sh. The free level lets you host unlimited static sites, lets you use your own custom site, and offers basic SSL support. So I added a deploy script to the project in the package.json file:
-
-```
-"deploy": "surge public/ ryan-yosua-blog.surge.sh",
-```
-
-And then ran:
-
-```
-gatsby build
-yarn deploy
-```
-
-That's all it took to get the site live at https://ryan-yosua-blog.surge.sh/
-
-## Using a Custom Domain
-
-The final step was switching my custom domain to point to Surge instead of my own blog. I was able to do that following the instructions on Surge's site but remembered the last time I had messed with my personal domain's DNS settings my email stopped working. Once the site was live, I tried to email myself and realized that I had made the same mistake and quickly undid the changes. I figured out what the problem was and it seems like it is easily fixable, but I decided to hold off on this final step until I can afford to turn off my email for a bit just in case.
+For hosting, recently switched from Surge to Netlify for hosting. The free level lets you host unlimited static sites, lets you use your own custom site, and sets up SSL with Lets Encrypt automatically. When adding a site it will ask you to connect to Github and pick a repo, ask you what command to use to build (`gatsby build`) and what directory to publish (`public/`). Then all you have to do is enter the DNS settings that they give you into your domain name manager. You can also buy and manage domain names directly from Netlify if you don't have an exsiting one.
 
 ## Summary
 
-I was really impressed with Gatsby. It only took me about 2-3 hours to get a decent looking blog up, ~~and when I finally make the switch it will save me a few hundred dollars per year~~. I feel like I haven't even scratched the surface of Gatsby either. You can totally customize the site using React, and even pull data from other sources and combine it with your static files using GraphQL. Gatsby is a great solution to quickly create a blog or content driven website for virtually free. I was surprised to find that the React docs also use Gatsby. I am looking forward to finishing the migration of my blog and digging deeper by writing some custom components with React.
+I was really impressed with Gatsby. It only took me about 2-3 hours to get a decent looking blog up, and when I finally make the switch it will save me a few hundred dollars per year. I feel like I haven't even scratched the surface of Gatsby either. You can totally customize the site using React, and even pull data from other sources and combine it with your static files using GraphQL. Gatsby is a great solution to quickly create a blog or content driven website for virtually free. I was surprised to find that the React docs also use Gatsby. I am looking forward to blogging on Gatsby and digging deeper by writing some custom components with React.
