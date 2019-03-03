@@ -13,7 +13,7 @@ Recently I have heard about [GatsbyJS](https://www.gatsbyjs.org/) which is a sta
 
 ## Migrating my Blog
 
-I decided to give Gatsby a try. I do not consider myself a designer and wanted an out of the box solution with a basic template, where I could copy and paste my markdown files. Luckily Gatsby has something called "starters" which are Github repos that you can use as a statrting point for your blog. It is sort of like create react app, but it comes with a basic design and a few example blog posts.
+I decided to give Gatsby a try. I do not consider myself a designer and wanted an out of the box solution with a basic template, where I could copy and paste my markdown files. Luckily Gatsby has something called "starters" which are Github repos that you can use as a starting point for your blog. It is sort of like create react app, but it comes with a basic design and a few example blog posts.
 
 I found one that I liked, gatsby-starter-blog, and was able to initialize the blog with a simple command:
 
