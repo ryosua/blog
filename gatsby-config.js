@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Ryan Yosua's Blog`,
     author: `Ryan Yosua`,
-    description: `I write about Ethereum and entrepreneurship.`,
+    description: `I write about Ethereum software engineering and entrepreneurship.`,
     siteUrl: `https://www.ryanyosua.me/`,
   },
   plugins: [
