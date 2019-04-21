@@ -28,10 +28,10 @@ function Bio() {
               }}
             />
             <p>
-              I am a full-time software engineer and part-time entrepreneur. I
-              am currently working as a contractor at Nutrien. In my free time,
-              I am working on <a href="http://fragmented.world/">Fragmented</a>,
-              a decentralized social network for Ethereum enthusiasts.
+              I am a software engineer currently working as a contractor at
+              Nutrien. At Nutrien I am working with a team to develop an
+              e-commerce site built in JavaScript and React. I occasionally blog
+              about technology and entrepreneurship.
             </p>
           </div>
         )
