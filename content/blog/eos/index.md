@@ -42,5 +42,3 @@ For a long time, many people (myself included) thought that the cryptocurrency m
 It will be interesting to see how EOS performs when the network actually launches, and the claims made by BlockOne are put to the test. To be successful, EOS will have to fight over a limited number of app developers, and cryptocurrency users. While there is plenty of speculation money to go around, the number of people who are actually interested in using and building on top of smart contract platforms is still a small group of people in comparison. To answer the question that this blog post poses - "Is EOS a Threat to Ethereum?", the best non-answer I can give is this:
 
 It is too early to tell, but we will soon find out.
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

@@ -26,5 +26,3 @@ After deciding to dissolve my mobile app company, I have been trying to figure o
 - Other software projects that I work on outside of my day job
 
 Hopefully, other people will find these posts interesting.
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

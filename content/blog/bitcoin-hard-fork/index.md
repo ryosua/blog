@@ -34,5 +34,3 @@ The Bitcoin hard fork has huge implications for Ethereum and the broader cryptoc
 The developers of Ethereum are continuing to make progress developing Metropolis which includes important scalability and privacy enhancements. After this fork, Ethereum will be the best cryptocurrency to make inexpensive, fast, and private transactions, and will have the best developer support out of any blockchain because of the versatility and popularity of the platform.
 
 Overall I am very excited about the future of cryptocurrencies and think that the Bitcoin fork was a positive event for the entire cryptocurrency space. I am happy to see a resolution to a conflict that has plagued Bitcoin for a long time, and can't wait to see how each fork does in the coming months and years.
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

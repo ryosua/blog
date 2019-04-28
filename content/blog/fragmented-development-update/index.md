@@ -54,5 +54,3 @@ I originally planned on using Swarm or IPFS to store the post data(text, picture
 ### Decentralized Governance
 
 Besides voting and tipping, I would like to use Ethereum for moderation as well. Users should be able to elect moderators and to vote directly on policies of the site and sub-communities. For this, I am thinking of integrating with Aragon so that I don't have to write all the governance contracts myself. The Aragon project is making a lot of great progress, but I will have to wait sometime before I could integrate with that project on the main net.
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

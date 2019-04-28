@@ -87,5 +87,3 @@ I have put together a list of links to the all of the Devcon 3 talks.
 - The Energy Blockchain in 20 Minutes [Youtube](https://youtu.be/ugbRyZSPfYE?t=2h51m6s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/the-energy-blockchain-in-20-minutes/)
 - Protecting your Privacy within the Blockchain Ecosystem [Youtube](https://youtu.be/ugbRyZSPfYE?t=3h13m20s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/protecting-your-privacy-within-blockchain-ecosystem/)
 - AKASHA: Unveiling The Next Experiment [Youtube](https://youtu.be/ugbRyZSPfYE?t=3h31m34s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/akasha/)
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

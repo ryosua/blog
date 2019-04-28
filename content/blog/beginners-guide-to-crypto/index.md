@@ -36,5 +36,3 @@ Now that you have a better understanding of cryptocurrencies, if you want to go 
 3. Expect the price to swing wildly - Sometimes the price of Bitcoin drops 80% of its value then takes over a year to recover. Take Warren Buffett's advice "Be fearful when others are greedy. Be greedy when others are fearful". Or better yet [hodl](https://www.reddit.com/r/Bitcoin/comments/2b8t78/whats_hodl/?st=jax4730i&sh=0c5ae9d0).
 
 Hope this helps demystify cryptocurrencies a bit. Good luck and remember to Hodl.
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

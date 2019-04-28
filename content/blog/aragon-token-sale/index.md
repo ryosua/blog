@@ -57,5 +57,3 @@ Read more at:
 https://aragon.network/
 
 https://blog.aragon.one/aragon-network-token-sale-terms-8998f63a3429
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

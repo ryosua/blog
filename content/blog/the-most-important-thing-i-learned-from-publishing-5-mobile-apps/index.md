@@ -73,5 +73,3 @@ Below are links to the 5 apps I mentioned in this post. The ones that I publishe
 
 - https://github.com/ryosua/speecher-mobile-app
 - https://github.com/ryosua/speecher-landing-page
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

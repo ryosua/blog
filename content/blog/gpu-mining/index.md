@@ -87,5 +87,3 @@ https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
 http://www.coindesk.com/ethereums-big-switch-the-new-roadmap-to-proof-of-stake/
 
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
-
-_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._
