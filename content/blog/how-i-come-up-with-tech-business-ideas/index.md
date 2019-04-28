@@ -69,4 +69,4 @@ This framework is something that I see on [r/Entrepreneur](https://www.reddit.co
 
 Using techniques like these, I am able to build a substantial list of ideas, most of which are bad, but a few of which might be the start of a plausible tech business. I then judge each of the ideas on how well they fit the target of Product/Market/Founder fit as well as some personal criteria that I have for a business. In the end, the idea for a business is only part of the outcome, but it is an important part.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

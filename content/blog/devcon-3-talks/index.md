@@ -88,4 +88,4 @@ I have put together a list of links to the all of the Devcon 3 talks.
 - Protecting your Privacy within the Blockchain Ecosystem [Youtube](https://youtu.be/ugbRyZSPfYE?t=3h13m20s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/protecting-your-privacy-within-blockchain-ecosystem/)
 - AKASHA: Unveiling The Next Experiment [Youtube](https://youtu.be/ugbRyZSPfYE?t=3h31m34s), [Foundation](https://ethereumfoundation.org/devcon3/sessions/akasha/)
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

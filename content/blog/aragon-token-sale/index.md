@@ -58,4 +58,4 @@ https://aragon.network/
 
 https://blog.aragon.one/aragon-network-token-sale-terms-8998f63a3429
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

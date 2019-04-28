@@ -47,4 +47,4 @@ MakerDAO provides a stable coin called DAI, an ERC20 token which tracks the pric
 
 DAI is not really a DApp and is more of a token with an extremely useful property, so in terms of this list, the second use case of MakerDAO is more relevant. That second use case is the ability for users to take out a loan in a decentralized manner. The UI for doing this is pretty complicated, and there is a good amount of risk in doing so, so keep that in mind if you try it. I have chosen MakerDAO as the #1 DApp because it is very decentralized and the use case is extremely compelling. If you had a large amount of Ether you could use MakerDAO to take out a loan to buy a car, house, refinance high-interest debt, or leverage your Eth position with a very low-interest rate.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

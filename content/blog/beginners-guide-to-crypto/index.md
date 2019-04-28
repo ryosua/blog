@@ -37,4 +37,4 @@ Now that you have a better understanding of cryptocurrencies, if you want to go 
 
 Hope this helps demystify cryptocurrencies a bit. Good luck and remember to Hodl.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

@@ -88,4 +88,4 @@ http://www.coindesk.com/ethereums-big-switch-the-new-roadmap-to-proof-of-stake/
 
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

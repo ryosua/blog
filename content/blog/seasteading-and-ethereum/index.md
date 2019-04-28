@@ -61,4 +61,4 @@ Quirk and Friedman address common concerns about seasteading in their book rangi
 
 It will take some time for the long-term benefits of seasteading to be realized. The first seastead that is proposed by Blue Frontiers and that will be built with the funds from the ICO will only be home to 300 people. The vision of building cities and eventually nations on the ocean will take a long time. However, the idea of living on the ocean has so many benefits that it will be very exciting to see how the first seastead turns out. I am hopeful that the Blue Frontiers will accomplish its goal of creating the first floating city.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

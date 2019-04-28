@@ -27,4 +27,4 @@ After deciding to dissolve my mobile app company, I have been trying to figure o
 
 Hopefully, other people will find these posts interesting.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

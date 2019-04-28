@@ -74,4 +74,4 @@ Below are links to the 5 apps I mentioned in this post. The ones that I publishe
 - https://github.com/ryosua/speecher-mobile-app
 - https://github.com/ryosua/speecher-landing-page
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

@@ -41,4 +41,4 @@ If you try Toshi feel free to send me a message in the app. My username is @ryos
 
 _Disclaimer - Toshi is great for holding small amounts of ETH, but for larger amounts, you should use something that is much more secure like a hardware or [paper wallet](https://www.callmegwei.com/2017/12/23/crypto-101-paper-wallets/). I recommend [Trezor](https://trezor.io/)._
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

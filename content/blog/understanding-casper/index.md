@@ -75,4 +75,4 @@ https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d
 A panel and Q&A, recommended for the average user or developer:
 https://www.youtube.com/watch?v=2r2k6awEJr8
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

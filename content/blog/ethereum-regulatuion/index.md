@@ -31,4 +31,4 @@ Clearly, there are a lot of scammers creating fake ICOs, and there are a lot of 
 
 Despite the bad actors in the space, there are many participants who want to use Ethereum to solve some of the worlds worst problems, to grow the economy by creating new companies, and to conduct business in an honest and open way. For that reason, I believe the problems with regulating Ethereum are not really problems, but protections for people who want to make a difference using this revolutionary technology.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

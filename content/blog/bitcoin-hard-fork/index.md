@@ -35,4 +35,4 @@ The developers of Ethereum are continuing to make progress developing Metropolis
 
 Overall I am very excited about the future of cryptocurrencies and think that the Bitcoin fork was a positive event for the entire cryptocurrency space. I am happy to see a resolution to a conflict that has plagued Bitcoin for a long time, and can't wait to see how each fork does in the coming months and years.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._

@@ -43,4 +43,4 @@ It will be interesting to see how EOS performs when the network actually launche
 
 It is too early to tell, but we will soon find out.
 
-_If you enjoyed this post, please check out the new decentralized social network that I am building at [fragmented.world](http://www.fragmented.world/)._
+_If you enjoyed this post, please subsribe to my [newsletter](http://eepurl.com/c8xBc9)._
