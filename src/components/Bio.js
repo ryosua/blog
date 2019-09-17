@@ -28,10 +28,10 @@ function Bio() {
               }}
             />
             <p>
-              I am a software engineer currently working as a contractor at
-              Nutrien. At Nutrien I am working with a team to develop an
-              e-commerce site built in JavaScript and React. I occasionally blog
-              about technology and entrepreneurship.
+              I am a software engineer currently working at Nutrien. At Nutrien
+              I am working with a team to develop an e-commerce site built in
+              JavaScript and React. I occasionally blog about technology and
+              entrepreneurship.
             </p>
           </div>
         )
