@@ -14,11 +14,11 @@ If you want to learn how to code, here is my advice:
 
 If you are interested in building web, mobile, or desktop apps I recommend going through this list of free courses:
 
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
-- [React 101](https://www.codecademy.com/learn/react-101)
-- [React 102](https://www.codecademy.com/learn/react-102)
+- [Learn React.js: Part I](https://www.codecademy.com/learn/react-101)
+- [Learn React.js: Part II](https://www.codecademy.com/learn/react-102)
 
 That should give you enough to attempt to build a website. If you want to build a mobile or desktop app, go through the same list of courses and then check out [React Native](https://reactnative.dev/).
 
