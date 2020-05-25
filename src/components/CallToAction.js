@@ -8,7 +8,11 @@ const ItalizedText = styled.p`
 const CallToAction = () => (
   <ItalizedText>
     If you enjoyed this post, please subsribe to my{' '}
-    <a href="http://eepurl.com/c8xBc9">newsletter</a>.
+    <a href="http://eepurl.com/c8xBc9">email newsletter</a> and{' '}
+    <a href="https://www.youtube.com/channel/UClqbavbIJWxl-iMBpHb37JA">
+      Youtube channel
+    </a>
+    .
   </ItalizedText>
 )
 
