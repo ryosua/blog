@@ -1,0 +1,16 @@
+---
+title: The Open Source Startup
+date: '2020-05-26'
+---
+
+There's never been a better time to learn how to code or start a startup. There are infinite resources online on how to code, and lots of powerful tools are free. The only thing you need to buy to get started is a domain, and I bought my most recent one for \$10.99. It is easy and free to start a blog, Youtube channel, podcast, or social media account to reach customers. Despite this, most new products continue to fail in the market.
+
+I recently read a book, [The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed](https://www.amazon.com/Right-Many-Ideas-Yours-Succeed-ebook/dp/B07CKRYYZK). It describes this phenomenon as "The Law of Market Failure" - "Most new products will fail in the market, even if they are competently executed." In his book he estimates that 80-90% of new products fail. This isn't a new idea, and his book is similar to [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6) which outlines a process called validated learning to help test your idea so you can quickly and cheaply determine if it will succeed in the market, or pivot to a better one.
+
+I am not immune to the law of market failure and have not yet started a business that has been successful. But each time I launch a product I learn something new that I use to build a better product the next time. I think these lessons are valuable and interesting to share, even if that means I will likely fail repeatedly in public. For that reason, I am starting a new Youtube channel called "The Open Source Startup". The premise of the channel is that I will pick a startup idea and record myself building it to share on Youtube. The purpose of the channel is to practice building startups and also to teach others. At the very least I am hoping someone can learn from my mistakes.
+
+I will record and/or live stream as much of the work as I can. My intended audience is people that want to start a business, but don't know where to start. I will show you how to develop apps, but also how to use [Lean Startup Method](https://www.ryanyosua.me/how-to-start-a-lean-startup/) to systematically test an idea. If I invalidate the idea that I am working on, I will pivot or start a new idea. Since I will be sharing my work, I will open-source the code under the MIT license.
+
+[Please subscribe to my new Youtube channel so you can learn with me](https://www.youtube.com/channel/UClqbavbIJWxl-iMBpHb37JA)
+
+I am planning on recording the first video soon, and am waiting on Amazon to deliver a mic and stand that I ordered. In the first episode, I am planning on building a landing page for the channel. I will share the code for the landing page for free so you can adapt it for your business, and start getting feedback on your idea. In later episodes, I will pick an idea and then attempt to validate that idea by running tests and by building the product. If you are interested in watching but don't know how to code I recommend you [start here](https://www.ryanyosua.me/learn-to-code/). By the time I release the video you could learn some valuable skills which will help you hit the ground running.
