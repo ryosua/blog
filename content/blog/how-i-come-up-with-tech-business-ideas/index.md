@@ -59,7 +59,7 @@ I got this market first framework from an entrepreneur named Jack Zerby. With th
 
 ### What are you excited to work on?
 
-This is founder first framework focuses on finding the thing that you are most excited to work on. My first company Yosuatreegames, grew out of me working on mobile games for fun, so in a way, I have used this framework before. I think the pitfall here for me is that I enjoy programming most types of software, and I will be excited to build any application even if there is no market for it.
+This is a founder first framework that focuses on finding the thing that you are most excited to work on. My first company Yosuatreegames, grew out of me working on mobile games for fun, so in a way, I have used this framework before. I think the pitfall here for me is that I enjoy programming most types of software, and I will be excited to build any application even if there is no market for it.
 
 ### What are people searching for on Google?
 
