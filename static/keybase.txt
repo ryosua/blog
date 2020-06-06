@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ryosua
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.ryanyosua.me
+  * I am ryosua (https://keybase.io/ryosua) on keybase.
+  * I have a public key ASCqZkrJ9BmXMBfHFxTsQqkr9DJNisc5Vt4_Q1DEsOpsmwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dd34ff4745bc1475a7fc39b37b699bda00ad10e517e5260c7c852cb9d892af4b0a",
+      "host": "keybase.io",
+      "kid": "0120aa664ac9f419973017c71714ec42a92bf4324d8ac73956de3f4350c4b0ea6c9b0a",
+      "uid": "de16623d8f32ad41471259e9e79db919",
+      "username": "ryosua"
+    },
+    "merkle_root": {
+      "ctime": 1591462315,
+      "hash": "5d8417d22e2b71160fc9c4fc431b6ba41694f4cf721993f8332b1392e149eb008534f2e5ccfeaa1c950750dcacda4d3f053843b4e8ddc4e1a5de7429ea4f7522",
+      "hash_meta": "f2af6f3ab4931c27996a1e8e871041679f35052decdb9d42521208fdd5e2c513",
+      "seqno": 16556203
+    },
+    "service": {
+      "entropy": "M8hQL+fVjGf+bFGAJVOpAFd7",
+      "hostname": "www.ryanyosua.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591462329,
+  "expire_in": 504576000,
+  "prev": "fbea7415b534adf84873dc5a0941d90c6c5a44775cfd22f0cde133ef03899727",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqmZKyfQZlzAXxxcU7EKpK/QyTYrHOVbeP0NQxLDqbJsKp3BheWxvYWTESpcCJcQg++p0FbU0rfhIc9xaCUHZDGxaRHdc/SLwzeEz7wOJlyfEILTMcvTt/bGNoN/cgtpaut9jD2du3yaPys9BniWYBCIIAgHCo3NpZ8RAPmm2Vvgj3p/llJc/KBcwHkuQ9YwCjR1K+WPCb/6CnExBDmJXyJA+EuwqYxr8LAejv9Ut98RWbz35Z1n8pZcjCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJLeBOHS3Bvzr7Gde7zDIz6OSo94FEofTwBOvRFKM4MEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryosua
+
+==================================================================
